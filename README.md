@@ -1,7 +1,7 @@
 # firstproject
 This is my first git hub experience 
 <br>
-author - babu
+author - babu (tejas)
 <br>
 I have learned Html and CSS and built up a
 <br>
